@@ -29,7 +29,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dominik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominikcroci520/)
 
